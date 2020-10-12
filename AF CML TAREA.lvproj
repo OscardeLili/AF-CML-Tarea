@@ -14,6 +14,8 @@
 		<Item Name="Contador Binario.lvlib" Type="Library" URL="../Contador Binario/Contador Binario.lvlib"/>
 		<Item Name="F Generator.lvlib" Type="Library" URL="../F Generator/F Generator.lvlib"/>
 		<Item Name="Measurement GEN.lvlib" Type="Library" URL="../Measurement GEN/Measurement GEN.lvlib"/>
+		<Item Name="Text Actor.lvlib" Type="Library" URL="../Text Actor/Text Actor.lvlib"/>
+		<Item Name="CSV Actor.lvlib" Type="Library" URL="../CSV Actor/CSV Actor.lvlib"/>
 		<Item Name="laucher" Type="VI" URL="../laucher"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -26,6 +28,7 @@
 				<Item Name="Time-Delay Override Options.ctl" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delay Override Options.ctl"/>
 				<Item Name="NI_MABase.lvlib" Type="Library" URL="/&lt;vilib&gt;/measure/NI_MABase.lvlib"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/Dialog/lvconfig.llb/LV Config Read String.vi"/>
