@@ -10,7 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Contador Binario.lvlib" Type="Library" URL="../Contador Binario/Contador Binario.lvlib"/>
 		<Item Name="F Generator.lvlib" Type="Library" URL="../F Generator/F Generator.lvlib"/>
+		<Item Name="laucher" Type="VI" URL="../laucher"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
