@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Amplitud Msg.lvclass" Type="LVClass" URL="../../F Generator Messages/Amplitud Msg/Amplitud Msg.lvclass"/>
 		<Item Name="Frecuencia Msg.lvclass" Type="LVClass" URL="../../F Generator Messages/Frecuencia Msg/Frecuencia Msg.lvclass"/>
+		<Item Name="Graficar datos Msg.lvclass" Type="LVClass" URL="../../F Generator Messages/Graficar datos Msg/Graficar datos Msg.lvclass"/>
 		<Item Name="Graph Data Msg.lvclass" Type="LVClass" URL="../../F Generator Messages/Graph Data Msg/Graph Data Msg.lvclass"/>
 		<Item Name="Start Stop graph Msg.lvclass" Type="LVClass" URL="../../F Generator Messages/Start Stop graph Msg/Start Stop graph Msg.lvclass"/>
 		<Item Name="Tipo Señal Msg.lvclass" Type="LVClass" URL="../../F Generator Messages/Tipo Señal Msg/Tipo Señal Msg.lvclass"/>
