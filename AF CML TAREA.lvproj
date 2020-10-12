@@ -17,6 +17,7 @@
 		<Item Name="Text Actor.lvlib" Type="Library" URL="../Text Actor/Text Actor.lvlib"/>
 		<Item Name="CSV Actor.lvlib" Type="Library" URL="../CSV Actor/CSV Actor.lvlib"/>
 		<Item Name="laucher" Type="VI" URL="../laucher"/>
+		<Item Name="TDMS.lvlib" Type="Library" URL="../TDMS/TDMS.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
